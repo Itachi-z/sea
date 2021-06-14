@@ -1,0 +1,48 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://kbdevstorage1.blob.core.windows.net/asset-blobs/18995_en_1")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#intro1 {
+    height: 100%;
+}
+
+#intro1 {
+    background: url("https://images.pexels.com/photos/8126089/pexels-photo-8126089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#intro2 {
+    height: 100%;
+}
+
+#intro2 {
+    background: url("https://images.pexels.com/photos/1435849/pexels-photo-1435849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#intro3 {
+    height: 100%;
+}
+
+#intro3 {
+    background: url("https://images.pexels.com/photos/4666753/pexels-photo-4666753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
